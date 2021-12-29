@@ -15,6 +15,7 @@
   <img align="center" alt="Brend-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Brend-SSH" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original-wordmark.svg" />
 <img align="right" alt="Brend-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/925808811778908233/925808982281564170/Design_sem_nome.gif?width=507&height=507">
+  
   ##
  
 <div> 
