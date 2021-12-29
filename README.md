@@ -3,10 +3,10 @@
 
 - 🌱 Estudando Java 
 
-<div align="center">
+<div style="display: flex; justify-content: space-between;">
   <a href="https://github.com/brenda-br3">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=brenda-br3&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenda-br3&layout=compact&langs_count=7&theme=nightowl"/>
+  <img height="100em" src="https://github-readme-stats.vercel.app/api?username=brenda-br3&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
+  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenda-br3&layout=compact&langs_count=7&theme=nightowl"/>
 </div>
 <div style="display: inline_block"><br>
    <img align="center" alt="Brend-Java" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" />
